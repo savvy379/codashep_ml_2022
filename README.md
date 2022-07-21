@@ -36,9 +36,9 @@ Click on Generate token button at the bottom of the page.
 
 6. In your Colab notebook, clone the repository using the following command
 ```
-!git clone https://{git_token}@github.com/savvy379/codashep_ml_2022.git
+!git clone https:/{git_token}@github.com/savvy379/codashep_ml_2022.git
 ```
 
-You now have access to the repo and can run all notebooks in the Colab environment. You can access the repo in your GitHub folder in your Google Drive to open the notebooks. 
+You now have access to the repo and can run all notebooks in the Colab environment. You can access the repo in your GitHub folder in your Google Drive to open the notebooks. You can also use a Colab notebook as a shell to interact with github through the normal commands by putting a '!' at the beginning.
 
 You can, of course, run the notebooks locally as well you will just need to ensure you have the required packages installed. 
