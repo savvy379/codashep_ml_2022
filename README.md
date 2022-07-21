@@ -23,8 +23,8 @@ Select the respective Google Drive account on which you want to mount and click 
 
 4. Create a GitHub folder in your Google Drive and cd into the folder 
 ```
-!mkdir /content/drive/MyDrive/Github/
-!cd /content/drive/MyDrive/Github/
+%mkdir /content/drive/MyDrive/Github/
+%cd /content/drive/MyDrive/Github/
 ```
 
 5. Generate a GitHub access token (if you do not already have one). 
