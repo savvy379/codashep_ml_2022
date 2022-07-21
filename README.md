@@ -1,9 +1,9 @@
 # CODAS-HEP ML Material 
 This repo houses the ML material developed for [CODAS-HEP](https://codas-hep.org/) 2022. It is split into four lessons that include background/theory and hands on exercises (that are HEP focused when possible): 
-- Intro to ML: background/basics of ML, conceptualizing linear regression as an ML model, and BDTs
-- Neural Networks and Convolutional Neural Networks: 
-- Unsupervised Learning and Autoencoders: 
-- Graph Neural Networks: background on graphs as data representation, theory of GNNs, node classification with Cora dataset and charged particle tracking via edge-classifying GNNs
+- **Intro to ML**: background/basics of ML, conceptualizing linear regression as an ML model, and BDTs
+- **Neural Networks and Convolutional Neural Networks**: 
+- **Unsupervised Learning and Autoencoders**: 
+- **Graph Neural Networks**: background on graphs as data representation, theory of GNNs, node classification with Cora dataset and charged particle tracking via edge-classifying GNNs
 
 Please feel free to use these materials (with attribution) for your own teaching and learning. 
 
@@ -28,10 +28,15 @@ cd /content/drive/MyDrive/Github/
 ```
 
 5. Generate a GitHub access token (if you do not already have one)
+
 Visit GitHub website and login to your account.
+
 Go to Settings, navigate to Developer settings and then click on Personal access tokens. 
+
 Click on Generate new token button on top right corner of the page.
+
 Click the repo checkbox under Select scopes section. 
+
 Click on Generate token button at the bottom of the page
 
 6. In your Colab notebook, clone the repository using the following command
