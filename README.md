@@ -27,17 +27,12 @@ mkdir /content/drive/MyDrive/Github/
 cd /content/drive/MyDrive/Github/
 ```
 
-5. Generate a GitHub access token (if you do not already have one)
-
-Visit GitHub website and login to your account.
-
-Go to Settings, navigate to Developer settings and then click on Personal access tokens. 
-
-Click on Generate new token button on top right corner of the page.
-
-Click the repo checkbox under Select scopes section. 
-
-Click on Generate token button at the bottom of the page
+5. Generate a GitHub access token (if you do not already have one). 
+Visit GitHub website and login to your account.  
+Go to Settings, navigate to Developer settings and then click on Personal access tokens.   
+Click on Generate new token button on top right corner of the page.  
+Click the repo checkbox under Select scopes section.   
+Click on Generate token button at the bottom of the page. 
 
 6. In your Colab notebook, clone the repository using the following command
 ```
