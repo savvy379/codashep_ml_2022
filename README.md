@@ -27,16 +27,9 @@ Select the respective Google Drive account on which you want to mount and click 
 %cd /content/drive/MyDrive/Github/
 ```
 
-5. Generate a GitHub access token (if you do not already have one). 
-Visit GitHub website and login to your account.  
-Go to Settings, navigate to Developer settings and then click on Personal access tokens.   
-Click on Generate new token button on top right corner of the page.  
-Click the repo checkbox under Select scopes section.   
-Click on Generate token button at the bottom of the page. 
-
-6. In your Colab notebook, clone the repository using the following command
+5. In your Colab notebook, clone the repository using the following command
 ```
-!git clone https:/{git_token}@github.com/savvy379/codashep_ml_2022.git
+!git clone https://github.com/savvy379/codashep_ml_2022.git
 ```
 
 You now have access to the repo and can run all notebooks in the Colab environment. You can access the repo in your GitHub folder in your Google Drive to open the notebooks. You can also use a Colab notebook as a shell to interact with github through the normal commands by putting a '!' at the beginning.
