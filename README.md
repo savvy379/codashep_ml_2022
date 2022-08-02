@@ -2,7 +2,7 @@
 This repo houses the ML material developed for [CODAS-HEP](https://codas-hep.org/) 2022. It is split into four lessons that include background/theory and hands on exercises (that are HEP focused when possible): 
 - **Intro to ML**: background/basics of ML, conceptualizing linear regression as an ML model, and BDTs
 - **Neural Networks and Convolutional Neural Networks**: basics of deep learning, i.e. MLPs and CNNs
-- **Unsupervised Learning and Autoencoders**: motivation for unsupervised learning, algorithms: kNN, PCA, t-SNE, autoencoders
+- **Unsupervised Learning and Autoencoders**: motivation for unsupervised learning, algorithms: k-Means, PCA, t-SNE, autoencoders
 - **Graph Neural Networks**: background on graphs as data representation, theory of GNNs, node classification with Cora dataset and charged particle tracking via edge-classifying GNNs
 
 Please feel free to use these materials (with attribution) for your own teaching and learning. 
