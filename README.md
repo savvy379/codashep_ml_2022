@@ -2,7 +2,7 @@
 This repo houses the ML material developed for [CODAS-HEP](https://codas-hep.org/) 2022. It is split into four lessons that include background/theory and hands on exercises (that are HEP focused when possible): 
 - **Intro to ML**: background/basics of ML, conceptualizing linear regression as an ML model, and BDTs
 - **Neural Networks and Convolutional Neural Networks**: basics of deep learning, i.e. MLPs and CNNs
-- **Unsupervised Learning and Autoencoders**: motivation for unsupervised learning, algorithms: kNN, PCA, t-SNE, autoencoders
+- **Unsupervised Learning and Autoencoders**: motivation for unsupervised learning, algorithms: k-Means, PCA, t-SNE, autoencoders
 - **Graph Neural Networks**: background on graphs as data representation, theory of GNNs, node classification with Cora dataset and charged particle tracking via edge-classifying GNNs
 
 Please feel free to use these materials (with attribution) for your own teaching and learning. 
@@ -36,7 +36,7 @@ Click on Generate token button at the bottom of the page.
 
 6. In your Colab notebook, clone the repository using the following command
 ```
-!git clone https:/{git_token}@github.com/savvy379/codashep_ml_2022.git
+!git clone https://{git_token}@github.com/savvy379/codashep_ml_2022.git
 ```
 
 You now have access to the repo and can run all notebooks in the Colab environment. You can access the repo in your GitHub folder in your Google Drive to open the notebooks. You can also use a Colab notebook as a shell to interact with github through the normal commands by putting a '!' at the beginning.
